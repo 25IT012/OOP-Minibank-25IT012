@@ -1,4 +1,4 @@
-# Object-Oriented Mini Bank System (oop-minibank-25IT002)
+# Object-Oriented Mini Bank System (oop-minibank-25IT012)
 
 MiniBank is a layered, console-based banking application built in Java following core Object-Oriented Programming (OOP) principles, clean architectural patterns, concurrency controls, custom annotations with reflection, NIO-based persistence, and automated unit testing.
 
